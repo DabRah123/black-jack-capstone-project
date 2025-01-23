@@ -1,5 +1,6 @@
 # black-jack-capstone-project
-**Blackjack Game 🃏**
+##**Blackjack Game 🃏**
+
 Welcome to the Blackjack Game, a fun and interactive command-line implementation of the classic card game!
 
 **Features**
