@@ -4,12 +4,14 @@
 Welcome to the Blackjack Game, a fun and interactive command-line implementation of the classic card game!
 
 **Features**
+
 Fully functional Blackjack game with dealer logic.
 Randomly shuffled deck for every game.
 Automatic hand value calculation, including proper handling of Aces.
 ASCII art for added style.
 
 **How to Play**
+
 Run the script to start the game.
 You’ll be dealt two cards, and the dealer will also get two cards (one face-down).
 Choose whether to:
@@ -20,6 +22,7 @@ If your hand value exceeds 21, you lose (bust).
 The dealer must draw cards until their hand value is 17 or higher.
 
 **Game Rules**
+
 Number cards (2-10) are worth their face value.
 Face cards (J, Q, K) are worth 10.
 Aces can be worth 1 or 11, depending on the hand’s total value.
